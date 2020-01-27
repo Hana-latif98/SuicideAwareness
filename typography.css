@@ -42,13 +42,15 @@
     letter-spacing: 1px;
     text-align: center;
     line-height: 16px;
+    text-transform: uppercase;
 }
 
-.informationText{
+.information-text{
     font-family: Montserrat;
     font-weight: medium;
     font-size: 14px;
     color: #000000;
     letter-spacing: 0.88px;
     text-align: center;
+    text-transform: uppercase;
 }
