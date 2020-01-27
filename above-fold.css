@@ -23,12 +23,18 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 100%;
+    height: 94%;
+    justify-content: space-between;
 }
 
 .af-div-one{
     display: flex;
     justify-content: flex-end;
+}
+
+.af-div-two{
+    display: flex;
+    justify-content: center;
 }
 
 .af-div-three{
