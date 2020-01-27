@@ -41,3 +41,13 @@
     display: flex;;
     justify-content: flex-start;
 }
+
+.button{
+    background: #3CA0C0;
+    border-radius: 2px;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+}
