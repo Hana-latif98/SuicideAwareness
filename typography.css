@@ -1,0 +1,54 @@
+.h1-center{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 32px;
+    color: #222222;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.h1-left{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 32px;
+    color: #222222;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.body-center{
+    font-family: OpenSans;
+    font-size: 16px;
+    color: #222222;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 24px;
+}
+
+.body-left{
+    font-family: OpenSans;
+    font-size: 16px;
+    color: #222222;
+    letter-spacing: 0;
+    text-align: left;
+    line-height: 24px;
+}
+
+.button-text{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 16px;
+}
+
+.informationText{
+    font-family: Montserrat;
+    font-weight: medium;
+    font-size: 14px;
+    color: #000000;
+    letter-spacing: 0.88px;
+    text-align: center;
+}
