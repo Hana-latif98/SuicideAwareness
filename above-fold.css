@@ -22,7 +22,6 @@
 .above-fold-flexbox{
     display: flex;
     flex-direction: column;
-    width: 100%;
     height: 94%;
     justify-content: space-between;
 }
@@ -34,7 +33,12 @@
 
 .af-div-two{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.p-width{
+    max-width: 642px;
 }
 
 .af-div-three{
@@ -50,4 +54,5 @@
     padding-top: 20px;
     padding-bottom: 20px;
     border: none;
+    max-width: fit-content;
 }
