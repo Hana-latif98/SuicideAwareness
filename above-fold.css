@@ -1,6 +1,5 @@
 .header{
     background-color: #ffffff;
-    width: 92%;
     height: 80px;
     display: flex;
     direction: column;
@@ -48,7 +47,7 @@
 }
 
 .button{
-    background: url("./images/colourful-button.svg");
+    background-color: #3CA0C0;
     border-radius: 2px;
     padding-left: 44px;
     padding-right: 44px;
@@ -56,4 +55,7 @@
     padding-bottom: 20px;
     border: none;
     max-width: fit-content;
+    background-image: url('./images/blue-blob-for-button.svg'), url('./images/pink-blob-for-button.svg');
+    background-position: bottom right, left top;
+    background-repeat: no-repeat, no-repeat;
 }

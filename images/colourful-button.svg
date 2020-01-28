@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="66px" viewBox="0 0 210 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>colourful-button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.2%" y="-18.8%" width="110.5%" height="137.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.767578125   0 0 0 0 0.767578125   0 0 0 0 0.767578125  0 0 0 0.497350306 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="200" height="56" rx="2"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="colourful-button" transform="translate(5.000000, 5.000000)">
+            <g id="Group-5">
+                <g>
+                    <g id="Path-6-+-Combined-Shape-+-Path-6-+-Path-6-+-Path-6-Mask" filter="url(#filter-1)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill="#3CA0C0" xlink:href="#path-2"></use>
+                        <path d="M193.389252,62.9111678 C187.54306,60.1735219 163.894689,49.1461056 151.98133,43.6023362 C153.612286,42.6678386 155.422815,41.6754732 157.44183,40.6201983 C176.408341,30.7070033 178.709527,49.4341105 188.012009,46.0482838 C197.851147,42.4671307 197.651101,22.6339811 210.246812,26.7507864 C210.839124,26.9443789 203.619314,40.963502 193.389252,62.9111678 Z" id="Combined-Shape" fill="#BDD7EA" mask="url(#mask-3)" transform="translate(181.131045, 44.551227) scale(-1, -1) rotate(155.000000) translate(-181.131045, -44.551227) "></path>
+                        <path d="M-8.09127767,-3.50323417 C-10.6715967,-4.72254825 -3.55832616,-6.29702689 -0.247976658,-7.50189557 C15.6991359,-13.3061699 15.6429452,1.01154093 29.1154195,2.88034718 C39.5788555,4.33176095 43.9940536,-7.65707776 53.1807418,-8.38515466 C51.6865222,-5.29811179 43.1648911,12.9765851 40.3223588,19.0724153 C31.6730596,14.9715881 2.74738991,1.61851223 -8.09127767,-3.50323417 Z" id="Combined-Shape" fill="#F0C9D7" mask="url(#mask-3)" transform="translate(22.268515, 5.097212) rotate(155.000000) translate(-22.268515, -5.097212) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
