@@ -1,6 +1,6 @@
 .header{
     background-color: #ffffff;
-    max-width: 100%;
+    width: 92%;
     height: 80px;
     display: flex;
     direction: column;
@@ -8,8 +8,8 @@
     padding-left: 60px;
     padding-right: 60px;
     align-items: center;
+    position: fixed;
     z-index: 100;
-    position: sticky;
 }
 
 .header-text-holder{
@@ -22,13 +22,14 @@
 .above-fold-flexbox{
     display: flex;
     flex-direction: column;
-    height: 94%;
+    height: 80%;
     justify-content: space-between;
 }
 
 .af-div-one{
     display: flex;
     justify-content: flex-end;
+    margin-top: 80px;
 }
 
 .af-div-two{
@@ -47,7 +48,7 @@
 }
 
 .button{
-    background: #3CA0C0;
+    background: url("./images/colourful-button.svg");
     border-radius: 2px;
     padding-left: 44px;
     padding-right: 44px;
