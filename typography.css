@@ -5,6 +5,8 @@
     color: #222222;
     letter-spacing: 0;
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: 16px;
 }
 
 .h1-left{
@@ -17,16 +19,18 @@
 }
 
 .body-center{
-    font-family: OpenSans;
+    font-family: OpenSans-Regular;
     font-size: 16px;
     color: #222222;
     letter-spacing: 0;
     text-align: center;
     line-height: 24px;
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
 
 .body-left{
-    font-family: OpenSans;
+    font-family: OpenSans-Regular;
     font-size: 16px;
     color: #222222;
     letter-spacing: 0;
@@ -42,13 +46,16 @@
     letter-spacing: 1px;
     text-align: center;
     line-height: 16px;
+    margin: 0;
+    text-transform: uppercase;
 }
 
-.informationText{
+.information-text{
     font-family: Montserrat;
     font-weight: medium;
     font-size: 14px;
     color: #000000;
     letter-spacing: 0.88px;
     text-align: center;
+    text-transform: uppercase;
 }

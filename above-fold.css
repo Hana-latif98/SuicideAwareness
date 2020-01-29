@@ -1,0 +1,68 @@
+.header{
+    background-color: #ffffff;
+    height: 80px;
+    display: flex;
+    direction: column;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    align-items: center;
+    z-index: 100;
+    width: auto;
+}
+
+.wrapper-header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.header-text-holder{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 464px;
+}
+
+.above-fold-flexbox{
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    justify-content: space-between;
+}
+
+.af-div-one{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 80px;
+}
+
+.af-div-two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.p-width{
+    max-width: 642px;
+}
+
+.af-div-three{
+    display: flex;;
+    justify-content: flex-start;
+}
+
+.button{
+    background-color: #3CA0C0;
+    border-radius: 2px;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    max-width: fit-content;
+    background-image: url('./images/blue-blob-for-button.svg'), url('./images/pink-blob-for-button.svg');
+    background-position: bottom right, left top;
+    background-repeat: no-repeat, no-repeat;
+}
