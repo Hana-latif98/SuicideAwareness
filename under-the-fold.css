@@ -1,7 +1,7 @@
 .second-partition{
     display: flex;
     flex-direction: row;
-    height: 80%;
+    margin-top: 362px;
     justify-content: space-between;
 }
 
@@ -16,7 +16,7 @@
 .third-partition{
     display: flex;
     flex-direction: row-reverse;
-    height: 80%;
+    margin-top: 362px;
     justify-content: space-between;
 }
 
