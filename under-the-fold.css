@@ -52,3 +52,18 @@
     max-width: 479px;
 }
 
+.fifth-partition{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 306px;
+    justify-content: space-between;
+    margin-bottom: 400px;
+}
+
+.uf-div-four{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-right: 160px;
+    max-width: 562px;
+}
