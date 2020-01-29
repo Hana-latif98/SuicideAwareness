@@ -1,0 +1,6 @@
+.second-partition{
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+    justify-content: space-between;
+}
