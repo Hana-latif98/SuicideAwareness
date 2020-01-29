@@ -32,3 +32,22 @@
     max-width: 517px;
 }
 
+.fourth-partition{
+    display: flex;
+    flex-direction: row;
+    margin-top: 362px;
+    justify-content: space-between;
+}
+
+.uf-div-three{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-right: 160px;
+    max-width: 562px;
+}
+
+.p-width-four{
+    max-width: 517px;
+}
+
