@@ -5,3 +5,9 @@
     background-position: left top, center top, right top, left bottom, right bottom;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
 }
+
+.footer-wrapper{
+    display: flex;
+    width: 843px;
+    flex-direction: column;
+}
