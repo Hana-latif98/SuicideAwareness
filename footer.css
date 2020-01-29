@@ -9,9 +9,18 @@
     justify-content: center;
 }
 
+.footer-logo{
+    padding-top: 4px;
+}
+
 .footer-wrapper{
     display: flex;
     width: 843px;
     flex-direction: row;
     justify-content: space-between;
+}
+
+.footer-links{
+    display: flex;
+    flex-direction: column;
 }
