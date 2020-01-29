@@ -1,7 +1,7 @@
 .second-partition{
     display: flex;
     flex-direction: row;
-    height: 80%;
+    margin-top: 362px;
     justify-content: space-between;
 }
 
@@ -12,3 +12,23 @@
     padding-left: 160px;
     max-width: 356px;
 }
+
+.third-partition{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 362px;
+    justify-content: space-between;
+}
+
+.uf-div-two{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-right: 160px;
+    max-width: 562px;
+}
+
+.p-width-three{
+    max-width: 517px;
+}
+
