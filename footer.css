@@ -4,10 +4,14 @@
     background-image: url('./images/pink-blob-footer.svg'), url('./images/blue-blob-footer.svg'), url('./images/coral-blob-footer.svg'), url('./images/light-blue-blob-footer.svg'), url('./images/purple-blob-footer.svg');
     background-position: left top, center top, right top, left bottom, right bottom;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .footer-wrapper{
     display: flex;
     width: 843px;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
 }
