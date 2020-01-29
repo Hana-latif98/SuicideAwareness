@@ -65,4 +65,5 @@
     background-image: url('./images/blue-blob-for-button.svg'), url('./images/pink-blob-for-button.svg');
     background-position: bottom right, left top;
     background-repeat: no-repeat, no-repeat;
+    white-space: nowrap;
 }
