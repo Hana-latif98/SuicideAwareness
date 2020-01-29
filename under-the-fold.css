@@ -12,3 +12,19 @@
     padding-left: 160px;
     max-width: 356px;
 }
+
+.third-partition{
+    display: flex;
+    flex-direction: row-reverse;
+    height: 80%;
+    justify-content: space-between;
+}
+
+.uf-div-two{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-right: 160px;
+    max-width: 562px;
+}
+
