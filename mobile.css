@@ -1,5 +1,12 @@
 @media only screen and (max-width: 767px){
 
+
+    .header{
+        padding-left: 16px;
+        padding-right: 0;
+        height: 50px;
+    }
+
     .header-text-holder{
         display: none;
     }
@@ -33,4 +40,28 @@
         height: 644px;
     }
 
+    .uf-div-one{
+        padding-left: 0;
+    }
+
+    .uf-div-two{
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .third-partition{
+        padding-left: 0;
+    }
+
+    .uf-div-three{
+        padding-left: 0;
+    }
+
+    .uf-div-four{
+        padding-right: 0;
+    }
+
+    .footer-dummy{
+        display: none;
+    }
 }
