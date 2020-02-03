@@ -4,4 +4,28 @@
         display: none;
     }
 
+    .af-div-one{
+        height: 100px;
+    }
+
+    .af-div-three{
+        height: 120px;
+    }
+
+    #baby-pink-hand{
+        height: 150px;
+    }
+
+    #coral-hands{
+        height: 250px;
+    }
+
+    #dark-purple-hand{
+        height: 270px;
+    }
+
+    #darker-blue-hand{
+        height: 194px;
+    }
+
 }
