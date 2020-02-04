@@ -1,6 +1,28 @@
 @media only screen and (max-width: 767px){
 
 
+    .h1-center{
+        font-family: Montserrat;
+        font-weight: bold;
+        font-size: 20px;
+        color: #222222;
+        letter-spacing: 0;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 12px;
+    }
+
+    .h1-left{
+        font-family: Montserrat;
+        font-weight: bold;
+        font-size: 20px;
+        color: #222222;
+        letter-spacing: 0;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 12px;
+    }
+
     .header{
         padding-left: 16px;
         padding-right: 0;
