@@ -26,6 +26,11 @@
     flex-direction: column;
 }
 
+.footer-links-top{
+    display: flex;
+    flex-direction: column;
+}
+
 .footer-links-bottom{
     display: flex;
     flex-direction: column;
@@ -42,6 +47,15 @@
     padding-right: 40px;
 }
 
+
 .footer-dummy{
     width: 21%;
+}
+
+.mobile-footer-socials{
+    display: none;
+}
+
+.mobile-footer-logo{
+    display: none;
 }
