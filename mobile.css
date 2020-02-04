@@ -45,6 +45,61 @@
         margin-bottom: 40px;
     }
 
+    .button-text{
+        font-family: Montserrat-Bold;
+        font-size: 14px;
+        color: #FFFFFF;
+        letter-spacing: 0.88px;
+        text-align: center;
+        line-height: 16px;
+        letter-spacing: 1px;
+        margin: 0;
+        text-transform: uppercase;
+    }
+
+    .information-text{
+        font-family: Montserrat;
+        font-weight: medium;
+        font-size: 12px;
+        color: #222222;
+        letter-spacing: 0.75px;
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 0px;
+        margin-bottom: 12px;
+    }
+    
+    .information-text-bottom{
+        font-family: Montserrat;
+        font-weight: medium;
+        font-size: 12px;
+        color: #222222;
+        letter-spacing: 0.75px;
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 0px;
+        margin-bottom: 12px;
+    }
+    
+    .information-text-corner{
+        font-family: Montserrat-Medium;
+        font-size: 10px;
+        color: #222222;
+        letter-spacing: 0.62px;
+        text-align: right;
+        text-transform: uppercase;
+        margin: 0px;
+    }
+    
+    .information-text-corner-dummy{
+        font-family: Montserrat-Medium;
+        font-size: 10px;
+        visibility: hidden;
+        letter-spacing: 0.62px;
+        text-align: right;
+        text-transform: uppercase;
+    }
+
     .header{
         padding-left: 16px;
         padding-right: 0;
