@@ -82,22 +82,18 @@
     }
     
     .information-text-corner{
-        font-family: Montserrat-Medium;
+        font-family: Montserrat;
+        font-weight: medium;
         font-size: 10px;
         color: #222222;
         letter-spacing: 0.62px;
-        text-align: right;
+        text-align: center;
         text-transform: uppercase;
         margin: 0px;
     }
     
     .information-text-corner-dummy{
-        font-family: Montserrat-Medium;
-        font-size: 10px;
-        visibility: hidden;
-        letter-spacing: 0.62px;
-        text-align: right;
-        text-transform: uppercase;
+        display: none;
     }
 
     .header{
