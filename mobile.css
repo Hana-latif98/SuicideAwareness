@@ -146,6 +146,8 @@
     #dark-purple-hand{
         height: 270px;
         width: 147px;
+        align-self: flex-end;
+        margin-top: 62px;
     }
 
     #darker-blue-hand{
@@ -181,6 +183,11 @@
 
     .uf-div-three{
         padding-left: 0;
+    }
+
+    .fourth-partition{
+        flex-direction: column;
+        margin-top: 180px;
     }
 
     .uf-div-four{
