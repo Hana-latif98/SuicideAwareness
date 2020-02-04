@@ -152,7 +152,8 @@
 
     #darker-blue-hand{
         height: 194px;
-        width: 236px;
+        width: 223px;
+        margin-top: 40px;
     }
 
     .footer{
@@ -192,6 +193,12 @@
 
     .uf-div-four{
         padding-right: 0;
+    }
+
+    .fifth-partition{
+        margin-top: 180px;
+        flex-direction: column;
+        margin-bottom: 200px;
     }
 
     .footer-dummy{
