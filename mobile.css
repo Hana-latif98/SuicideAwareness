@@ -114,6 +114,10 @@
         align-self: center;
     }
 
+    .above-fold-flexbox{
+        height: 85%;
+    }
+
     .af-div-one{
         height: 100px;
     }
@@ -188,7 +192,7 @@
 
     .fourth-partition{
         flex-direction: column;
-        margin-top: 180px;
+        margin-top: 220px;
     }
 
     .uf-div-four{
