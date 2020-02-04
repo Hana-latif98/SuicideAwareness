@@ -205,11 +205,36 @@
         margin-bottom: 200px;
     }
 
+    .footer{
+        flex-direction: column;
+    }
+
+    .footer-wrapper{
+        flex-direction: column;
+    }
+
+
+    .corner-text{
+        height: 34px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 0px;
+        width: fit-content;
+        align-self: center;
+        padding-right: 0px;
+    }
+
+    .footer-logo{
+        display: none;
+    }
+
+    .footer-links-bottom{
+        display: none;
+    }
+
     .footer-dummy{
         display: none;
     }
 
-    .footer-wrapper{
-        display: none;
-    }
 }
