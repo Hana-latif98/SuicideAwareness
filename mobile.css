@@ -176,6 +176,7 @@
 
     .uf-div-one{
         padding-left: 0;
+        max-width: none;
     }
 
     .uf-div-two{
