@@ -50,7 +50,8 @@
     }
 
     .button-text{
-        font-family: Montserrat-Bold;
+        font-family: Montserrat;
+        font-weight: bold;
         font-size: 14px;
         color: #FFFFFF;
         letter-spacing: 0.88px;
