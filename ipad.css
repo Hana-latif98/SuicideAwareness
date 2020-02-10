@@ -51,6 +51,28 @@
     .footer-dummy{
         width: 11%;
     }
+
+    .uf-div-one{
+        padding-left: 100px;
+    }
+
+    .third-partition{
+        padding-left: 20px;
+    }
+
+    .uf-div-two{
+        padding-right: 20px;
+        padding-left: 40px;
+    }
+
+    .uf-div-three{
+        padding-left: 100px;
+    }
+
+    .uf-div-four{
+        padding-right: 20px;
+        padding-left: 40px;
+    }
 }
 
 
