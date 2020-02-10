@@ -1,4 +1,4 @@
-@media only screen and (min-width: 768px) and (max-width:999px){
+@media only screen and (min-width: 768px) and (max-width:1070px){
     
     #first-hand-coral{
         width: 223px;
@@ -22,7 +22,35 @@
 
     #darker-blue-hand{
         width: 327px;
-    }  
+    }
+
+    .footer{
+        background-size: 20%;
+    }
+
+    .footer-logo{
+        padding-right: 40px;
+    }
+
+    .footer-links-top{
+        padding-right: 40px;
+    }
+
+    .footer-links{
+        padding-right: 40px;
+    }
+
+    .information-text{
+        white-space: nowrap;
+    }
+
+    .information-text-bottom{
+        white-space: nowrap;
+    }
+
+    .footer-dummy{
+        width: 11%;
+    }
 }
 
 
