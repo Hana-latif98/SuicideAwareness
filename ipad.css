@@ -1,27 +1,27 @@
 @media only screen and (min-width: 768px) and (max-width:999px){
     
     #first-hand-coral{
-        transform: scale(0.6);
+        width: 223px;
     }
 
     #second-hand-baby-blue{
-        transform: scale(0.6);
+        width: 216px;
     }
 
     #baby-pink-hand{
-        transform: scale(0.6);
+        width: 401px;
     }
 
     #coral-hands{
-        transform: scale(0.6);
+        width: 295px;
     }
 
     #dark-purple-hand{
-        transform: scale(0.6);
+        width: 258px;
     }
 
     #darker-blue-hand{
-        transform: scale(0.6);
+        width: 327px;
     }  
 }
 
