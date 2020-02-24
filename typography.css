@@ -54,6 +54,19 @@
     text-transform: uppercase;
 }
 
+.information-text-header{
+    font-family: Montserrat;
+    font-weight: medium;
+    font-size: 14px;
+    color: #000000;
+    letter-spacing: 0.88px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    margin-top: 14px;
+}
+
 .information-text{
     font-family: Montserrat;
     font-weight: medium;
@@ -65,6 +78,8 @@
     margin-top: 0px;
     margin-bottom: 12px;
 }
+
+
 
 .information-text-bottom{
     font-family: Montserrat;
